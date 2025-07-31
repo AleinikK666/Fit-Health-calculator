@@ -2,7 +2,6 @@
 //  ViewController.swift
 //  FitHealth-calculator
 //
-//
 import UIKit
 
 class ViewController: UIViewController {
